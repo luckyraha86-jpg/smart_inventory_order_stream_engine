@@ -1,0 +1,56 @@
+[
+    {
+        "id": 2,
+        "customer": "spiderman",
+        "category": "pasta",
+        "amount": 2000
+    },
+    {
+        "id": 3,
+        "customer": "thor",
+        "category": "sandwich",
+        "amount": 3000
+    },
+    {
+        "id": 4,
+        "customer": "baigan",
+        "category": "sandwich",
+        "amount": 5000
+    },
+    {
+        "id": 1,
+        "customer": "tonystark",
+        "category": "desert",
+        "amount": 1000
+    },
+    {
+        "id": 4,
+        "customer": "baigan",
+        "category": "sandwich",
+        "amount": 5000
+    },
+    {
+        "id": 4,
+        "customer": "baigan",
+        "category": "sandwich",
+        "amount": 5000
+    },
+    {
+        "id": 4,
+        "customer": "jay",
+        "category": "burger",
+        "amount": 1500
+    },
+    {
+        "id": 5,
+        "customer": "baigan",
+        "category": "momo",
+        "amount": 2000
+    },
+    {
+        "id": 3,
+        "customer": "lakha",
+        "category": "food",
+        "amount": 3000
+    }
+]
